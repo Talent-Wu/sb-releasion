@@ -1,0 +1,32 @@
+Amount,Category,Company,Time
+-120.0,Meal,KFC,2025-05-01 12:30:00
+-150.0,Meal,Burger King,2025-05-03 18:45:00
+-80.0,Snacks,Pepsi,2025-05-05 10:15:00
+-60.0,Daily,Walgreens,2025-05-07 15:20:00
+-200.0,Phone,Apple,2025-05-09 09:30:00
+-180.0,Cosmetics,L'Oreal,2025-05-11 14:10:00
+-90.0,Horticulture,Home Depot,2025-05-13 11:45:00
+-110.0,Pet,PetSmart,2025-05-15 16:30:00
+-70.0,Tobacco,Marlboro,2025-05-17 13:00:00
+-130.0,Monetary,Wells Fargo,2025-05-19 17:20:00
+150.0,Meal,Subway,2025-05-21 20:15:00
+200.0,Phone,Samsung,2025-05-23 10:45:00
+120.0,Pet,Chewy,2025-05-25 14:30:00
+100.0,Snacks,KitKat,2025-05-27 11:00:00
+-160.0,Daily,Target,2025-05-29 15:45:00
+-190.0,Cosmetics,Estée Lauder,2025-05-31 12:10:00
+-85.0,Horticulture,Lowe's,2025-06-02 10:30:00
+-105.0,Pet,Petco,2025-06-04 16:15:00
+-65.0,Tobacco,Camel,2025-06-06 13:45:00
+-140.0,Monetary,Chase,2025-06-08 17:50:00
+135.0,Meal,Dunkin',2025-06-10 20:30:00
+185.0,Phone,Huawei,2025-06-12 11:15:00
+115.0,Pet,Amazon Pet Supplies,2025-06-14 14:45:00
+95.0,Snacks,M&M's,2025-06-16 11:30:00
+-170.0,Daily,Walmart,2025-06-18 15:55:00
+-210.0,Cosmetics,MAC,2025-06-20 12:20:00
+-95.0,Horticulture,True Value,2025-06-22 10:40:00
+-115.0,Pet,Banfield Pet Hospital,2025-06-24 16:45:00
+-75.0,Tobacco,Newport,2025-06-26 13:55:00
+-150.0,Monetary,Bank of America,2025-06-28 18:00:00
+58.0,Pet,Alipay,2025-04-17 13:37:31
